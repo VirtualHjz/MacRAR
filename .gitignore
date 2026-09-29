@@ -1,0 +1,8 @@
+.DS_Store
+.build/
+dist/
+build_assets/AppIcon.iconset/
+ThirdParty/*.tar.gz
+ThirdParty/*.tar.bz2
+ThirdParty/rar/
+ThirdParty/p7zip_16.02/bin/
